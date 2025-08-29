@@ -2,3 +2,6 @@
 .vs/
 *.ipch
 *.vsidx
+Debug
+configInicial/Debug
+External Libraries/
