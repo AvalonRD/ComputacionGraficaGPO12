@@ -1,7 +1,4 @@
-# Visual Studio temporary files
-.vs/
-*.ipch
-*.vsidx
+.vs
 Debug
 configInicial/Debug
 External Libraries/
